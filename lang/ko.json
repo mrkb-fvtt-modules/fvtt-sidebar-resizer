@@ -1,8 +1,10 @@
 {
     "MRKB": {
-        "LockSidebar": "사이드바 크기 고정",
+        "LockSidebar": "사이드바 너비 고정",
         "LockSidebarHint": "사이드바의 너비를 고정합니다.",
         "ResetSidebar": "사이드바 너비 재설정",
-        "ResetSidebarHint": "사이드바의 너비를 기본값으로 재설정합니다."
+        "ResetSidebarHint": "사이드바의 너비를 기본값으로 재설정합니다.",
+        "SidebarWidth": "사이드바 너비",
+        "SidebarWidthHint": "사이드바의 너비를 설정합니다."
     }
 }

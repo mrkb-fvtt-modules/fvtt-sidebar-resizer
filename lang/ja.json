@@ -3,6 +3,8 @@
         "LockSidebar": "サイドバーの幅を固定",
         "LockSidebarHint": "サイドバーの幅を固定します。",
         "ResetSidebar": "サイドバーの幅をリセット",
-        "ResetSidebarHint": "サイドバーの幅をデフォルト値にリセットします。"
+        "ResetSidebarHint": "サイドバーの幅をデフォルト値にリセットします。",
+        "SidebarWidth": "サイドバーの幅",
+        "SidebarWidthHint": "サイドバーの幅を設定します。"
     }
 }

@@ -3,6 +3,8 @@
         "LockSidebar": "Lock Sidebar Width",
         "LockSidebarHint": "Prevents the sidebar from being resized.",
         "ResetSidebar": "Reset Sidebar Width",
-        "ResetSidebarHint": "Resets the sidebar width to the default value."
+        "ResetSidebarHint": "Resets the sidebar width to the default value.",
+        "SidebarWidth": "Sidebar Width",
+        "SidebarWidthHint": "Set the width of the sidebar."
     }
 }

@@ -1,7 +1,7 @@
 Hooks.once("init", () => {
     game.settings.register("mrkb-sidebar-resizer", "sidebar-size", {
-        name: "Sidebar Width",
-        hint: "Set the width of the sidebar.",
+        name: game.i18n.localize("MRKB.SidebarWidth"),
+        hint: game.i18n.localize("MRKB.SidebarWidthHint"),
         scope: "user",
         config: false,
         type: Number,
