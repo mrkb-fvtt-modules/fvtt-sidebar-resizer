@@ -1,8 +1,8 @@
 {
     "id": "mrkb-sidebar-resizer",
-    "title": "MRKB Sidebar Resizer",
+    "title": "MRKB's Sidebar Resizer",
     "description": "<p>MRKB's Foundry VTT Sidebar Resizer</p>",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "compatibility": {
         "minimum": "13",
         "verified": "13.351"

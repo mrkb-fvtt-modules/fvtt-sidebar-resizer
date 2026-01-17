@@ -22,12 +22,12 @@
 .tab {
     width: 100%;
 }
-.chat-log {
-    min-width: unset;
-    max-width: unset;
-}
+.chat-log,
 .chat-form {
     width: calc(100% - 12px);
     min-width: unset;
     max-width: unset;
+}
+.overflowed .chat-log {
+    width: 100%;
 }
