@@ -2,7 +2,7 @@ Hooks.once("init", () => {
     game.settings.register("mrkb-sidebar-resizer", "sidebar-size", {
         name: game.i18n.localize("MRKB.SidebarWidth"),
         hint: game.i18n.localize("MRKB.SidebarWidthHint"),
-        scope: "user",
+        scope: "client",
         config: false,
         type: Number,
         default: 300,
@@ -13,7 +13,7 @@ Hooks.once("init", () => {
     game.settings.register("mrkb-sidebar-resizer", "sidebar-lock", {
         name: "MRKB.LockSidebar",
         hint: "MRKB.LockSidebarHint",
-        scope: "user",
+        scope: "client",
         config: true,
         type: Boolean,
         default: false,
@@ -27,7 +27,7 @@ Hooks.once("init", () => {
     game.settings.register("mrkb-sidebar-resizer", "reset-sidebar", {
         name: "MRKB.ResetSidebar",
         hint: "MRKB.ResetSidebarHint",
-        scope: "user",
+        scope: "client",
         config: true,
         type: Boolean,
         default: false,
