@@ -19,7 +19,7 @@
 #sidebar-content.active-chat #sidebar-resizer {
     left: 12px;
 }
-.tab {
+#sidebar-content .tab {
     width: 100%;
 }
 .chat-log,
